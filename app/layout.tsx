@@ -6,7 +6,7 @@ import "./globals.css"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "Aplicativo Financeiro",
+  title: "Beefund",
   description: "Interface de aplicativo financeiro com layout escuro",
     generator: 'v0.dev'
 }
